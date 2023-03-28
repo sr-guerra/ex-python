@@ -1,3 +1,5 @@
+#Faça um Programa que calcule a área de um quadrado, em seguida mostre o dobro desta área para o usuário. 
+
 l = int(input('Digite o lado de um quadrado:'))
 a = l ** 2
 a2 = a * 2
