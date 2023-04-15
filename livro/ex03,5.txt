@@ -1,0 +1,7 @@
+Calcule o resultado da expressão A > B and C or D, utilizandoos valores da tabela a seguir.
+
+    Nº      A    B      C      D     Resultado
+    i       1    2    True   False    False
+    ii      10   3    False  False    False
+    iii     5    1    True   True     True
+
