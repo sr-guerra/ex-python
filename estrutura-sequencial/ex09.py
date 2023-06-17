@@ -3,4 +3,4 @@
 f = float(input('Digite uma temperatura em fahrenheit:'))
 c = 5 * ((f - 32) / 9)
 
-print(f'{f} graus celsius é igual a {c} graus fahrenheit.')
+print(f'{f} graus fahrenheit é igual a {c:.1f} graus celsius.')
